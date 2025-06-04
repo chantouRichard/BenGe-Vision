@@ -1,0 +1,11 @@
+{
+  "build": {
+    "builder": "NIXPACKS",
+    "config": {
+      "runtime": "dotnet-8.0"
+    }
+  },
+  "deploy": {
+    "startCommand": "dotnet picture_backend.dll --urls http://0.0.0.0:$PORT"
+  }
+}
