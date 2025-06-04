@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "6VWcXbny4V1jD2VFee5Ph2EpWF1uxCMTYYQerAHQtEc=",
+  "Hash": "JJaW2l0HB70hhorwMmgSJyi1Ih4CfPHQATC/lV2njc4=",
   "Source": "picture_backend",
   "BasePath": "_content/picture_backend",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

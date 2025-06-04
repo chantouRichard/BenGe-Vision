@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{A0327C61-EC74-4ACA-8C54-79CB7DF74E63}|picture_backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A0327C61-EC74-4ACA-8C54-79CB7DF74E63}|picture_backend.csproj|c:\\users\\qq864\\desktop\\project\\\u8F6F\u5DE5\u5B9E\u8BAD\u9879\u76EE\\benge-vision-master\\picture_backend\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0327C61-EC74-4ACA-8C54-79CB7DF74E63}|picture_backend.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0327C61-EC74-4ACA-8C54-79CB7DF74E63}|picture_backend.csproj|c:\\users\\qq864\\desktop\\project\\\u8F6F\u5DE5\u5B9E\u8BAD\u9879\u76EE\\benge-vision-master\\picture_backend\\nixpacks.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A0327C61-EC74-4ACA-8C54-79CB7DF74E63}|picture_backend.csproj|solutionrelative:nixpacks.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0327C61-EC74-4ACA-8C54-79CB7DF74E63}|picture_backend.csproj|c:\\users\\qq864\\desktop\\project\\\u8F6F\u5DE5\u5B9E\u8BAD\u9879\u76EE\\benge-vision-master\\picture_backend\\.railway\\prod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A0327C61-EC74-4ACA-8C54-79CB7DF74E63}|picture_backend.csproj|solutionrelative:.railway\\prod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +46,38 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\qq864\\Desktop\\Project\\\u8F6F\u5DE5\u5B9E\u8BAD\u9879\u76EE\\BenGe-Vision-master\\picture_backend\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "C:\\Users\\qq864\\Desktop\\Project\\\u8F6F\u5DE5\u5B9E\u8BAD\u9879\u76EE\\BenGe-Vision-master\\picture_backend\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T10:22:34.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nixpacks.toml",
+              "DocumentMoniker": "C:\\Users\\qq864\\Desktop\\Project\\\u8F6F\u5DE5\u5B9E\u8BAD\u9879\u76EE\\BenGe-Vision-master\\picture_backend\\nixpacks.toml",
+              "RelativeDocumentMoniker": "nixpacks.toml",
+              "ToolTip": "C:\\Users\\qq864\\Desktop\\Project\\\u8F6F\u5DE5\u5B9E\u8BAD\u9879\u76EE\\BenGe-Vision-master\\picture_backend\\nixpacks.toml",
+              "RelativeToolTip": "nixpacks.toml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-04T10:22:06.263Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\qq864\\Desktop\\Project\\\u8F6F\u5DE5\u5B9E\u8BAD\u9879\u76EE\\BenGe-Vision-master\\picture_backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\qq864\\Desktop\\Project\\\u8F6F\u5DE5\u5B9E\u8BAD\u9879\u76EE\\BenGe-Vision-master\\picture_backend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-04T10:11:32.195Z",
               "EditorCaption": ""
@@ -64,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "prod.json",
               "DocumentMoniker": "C:\\Users\\qq864\\Desktop\\Project\\\u8F6F\u5DE5\u5B9E\u8BAD\u9879\u76EE\\BenGe-Vision-master\\picture_backend\\.railway\\prod.json",
               "RelativeDocumentMoniker": ".railway\\prod.json",
@@ -72,8 +105,7 @@
               "RelativeToolTip": ".railway\\prod.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-04T10:09:05.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T10:09:05.181Z"
             }
           ]
         }
